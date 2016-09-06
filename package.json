@@ -1,0 +1,11 @@
+{
+    "name": "srcur.com",
+    "private": true,
+    "version": "0.0.1",
+    "dependencies": {
+        "harp": "^0.20.3"
+    },
+    "scripts": {
+        "start": "$(npm bin)/harp server"
+    }
+}
